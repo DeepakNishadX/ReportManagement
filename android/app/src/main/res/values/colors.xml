@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#088da5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="greenLight">#519b57</color>
+    <color name="greenDark">#115a42</color>
+    <color name="blueDark">#172c4f</color>
+    <color name="purple">#522575</color>
+    <color name="skyBlueDark">#088da5</color>
+    <color name="skyBlueLight">#97a7e3</color>
+    <color name="skyBlueDark1">#222b61</color>
+    <color name="blackDark">#172c4f</color>
+    <color name="greenDark1">#5f9ea0</color>
+    <color name="saffron">#F1B136</color>
+    <color name="eggplant">#03A679</color>
+    <color name="sienna">#EB6460</color>
+    <color name="background_card_done">#ff004200</color>
+    <color name="reject_1">#ff3f3f</color>
+    <color name="backgroundColor">#f7f7f7</color>
+
+
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+
+    <color name="rippelColor">#FFFFFF</color>
+
+    <color name="bg_gradient_start">#b21331</color>
+    <color name="bg_gradient_end">#820d2a</color>
+    <color name="bg_button_login">#380813</color>
+
+    <color name="preset_button_background">@android:color/transparent</color>
+    <color name="preset_button_background_selected">#66000000</color>
+    <color name="silver_light">#5c1b1b1b</color>
+    <color name="statusbar">#0082CD</color>
+    <color name="mainTextColor">#252525</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="contentBadgeTitle">#a9a9a9</color>
+    <color name="contentDividerLine" >#e0e0e0</color>
+    <color name="black">#000000</color>
+
+</resources>

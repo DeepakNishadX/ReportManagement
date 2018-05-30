@@ -1,0 +1,11 @@
+{
+  "react-native":{
+    "packager": {
+      "port":19000
+    }
+  },
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cSpell.words": [
+    "imei"
+  ]
+}
